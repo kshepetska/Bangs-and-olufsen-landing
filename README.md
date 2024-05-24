@@ -4,7 +4,7 @@
 This project focuses on creating a captivating and interactive landing page. The implementation leverages HTML and CSS, with Sass (SCSS) used for smoother development and maintainability.
 
 ## Design
-- The design for this project can be viewed here: https://tinyurl.com/zwx57xzm.
+- The design for this project can be viewed here: [Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=loXBa0GUT3G9wadZ-0).
 - The design aims to create an engaging and visually appealing user experience with easy navigation and interactive elements.
 
 ## Features
